@@ -24,10 +24,10 @@ A classic Snake game implemented in C++ with simple graphics in the console. Con
 
 Here's a sample screenshot of the game in action:
 
-```
+
 ![image](https://github.com/user-attachments/assets/8e38706d-a725-4d02-8c58-02e728cbf867)
 
-```
+
 
 ## Future Enhancements
 
